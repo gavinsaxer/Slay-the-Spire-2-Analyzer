@@ -11,9 +11,18 @@ def parse_sts2_run(raw_json: dict) -> RunData:
 
     player_data = raw_json["players"][0]
 
+    #character mapping
+    character = {
+        "CHARACTER.IRONCLAD" : "Ironclad",
+        "CHARACTER.SILENT" : "Silent",
+        "CHARACTER.REGENT" : "Regent",
+        "CHARACTER.NECROBINDER" : "Necrobinder",
+        "CHARACTER.DEFECT" : "Defect",
+    }
+
     # 1. Extract High-Level Metadata
     run_args = {
-        "character_chosen": player_data["character"],
+        "character_chosen": character[player_data["character"]],
         "ascension_level": raw_json.get("ascension", 0),
         "victory": raw_json["win"],
         "floor_reached": sum(len(act) for act in raw_json.get("map_point_history", [])),
@@ -136,35 +145,3 @@ def parse_sts2_run(raw_json: dict) -> RunData:
 
     # 3. Pass the structured dictionary into Pydantic for validation
     return RunData(**run_args)
-
-
-def test_single_run(file_path: str) -> RunData | None:
-    """Reads a file and routes it through the adapter."""
-    path = Path(file_path)
-
-    if not path.is_file():
-        print(f"File not found: {path.absolute()}")
-        return
-
-    try:
-        with open(path, "r", encoding="utf-8") as f:
-            raw_json = json.load(f)
-
-        # The adapter function handles the translation AND validation
-        run = parse_sts2_run(raw_json)
-
-        # Prints out your clean, strictly typed Pydantic object
-        print(run)
-
-
-    except json.JSONDecodeError:
-        print("Error: The file has invalid JSON syntax.")
-    except ValidationError as e:
-        print(f"Schema Mismatch Error:\n{e}")
-    except KeyError as e:
-        print(f"Missing expected JSON key during parsing: {e}")
-
-
-
-# Usage:
-test_single_run("test_runs/example1.run")

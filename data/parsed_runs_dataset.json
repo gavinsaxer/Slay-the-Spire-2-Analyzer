@@ -1,6 +1,6 @@
 [
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":0,
     "victory":false,
     "floor_reached":23,
@@ -547,7 +547,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":0,
     "victory":true,
     "floor_reached":48,
@@ -1566,7 +1566,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.REGENT",
+    "character_chosen":"Regent",
     "ascension_level":0,
     "victory":false,
     "floor_reached":30,
@@ -2031,7 +2031,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":0,
     "victory":false,
     "floor_reached":48,
@@ -2791,7 +2791,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":0,
     "victory":false,
     "floor_reached":2,
@@ -2879,7 +2879,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":0,
     "victory":true,
     "floor_reached":48,
@@ -3781,7 +3781,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.REGENT",
+    "character_chosen":"Regent",
     "ascension_level":0,
     "victory":true,
     "floor_reached":48,
@@ -4624,7 +4624,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":1,
     "victory":true,
     "floor_reached":48,
@@ -5559,7 +5559,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":0,
     "victory":true,
     "floor_reached":48,
@@ -6410,7 +6410,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":2,
     "victory":false,
     "floor_reached":48,
@@ -7277,7 +7277,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":2,
     "victory":false,
     "floor_reached":8,
@@ -7457,7 +7457,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":0,
     "victory":false,
     "floor_reached":30,
@@ -8038,7 +8038,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":0,
     "victory":false,
     "floor_reached":48,
@@ -8880,7 +8880,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":0,
     "victory":false,
     "floor_reached":48,
@@ -9796,7 +9796,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":0,
     "victory":false,
     "floor_reached":1,
@@ -9847,7 +9847,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.REGENT",
+    "character_chosen":"Regent",
     "ascension_level":1,
     "victory":false,
     "floor_reached":25,
@@ -10431,7 +10431,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":1,
     "victory":false,
     "floor_reached":48,
@@ -11152,7 +11152,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":1,
     "victory":false,
     "floor_reached":2,
@@ -11211,7 +11211,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":2,
     "victory":true,
     "floor_reached":48,
@@ -12173,7 +12173,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":1,
     "victory":true,
     "floor_reached":48,
@@ -12999,7 +12999,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":2,
     "victory":false,
     "floor_reached":30,
@@ -13661,7 +13661,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.REGENT",
+    "character_chosen":"Regent",
     "ascension_level":1,
     "victory":false,
     "floor_reached":1,
@@ -13712,7 +13712,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.REGENT",
+    "character_chosen":"Regent",
     "ascension_level":1,
     "victory":false,
     "floor_reached":48,
@@ -14610,7 +14610,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.REGENT",
+    "character_chosen":"Regent",
     "ascension_level":1,
     "victory":false,
     "floor_reached":5,
@@ -14727,7 +14727,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":0,
     "victory":true,
     "floor_reached":48,
@@ -15584,7 +15584,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":1,
     "victory":false,
     "floor_reached":25,
@@ -16071,7 +16071,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":1,
     "victory":false,
     "floor_reached":46,
@@ -16759,7 +16759,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":1,
     "victory":false,
     "floor_reached":4,
@@ -16876,7 +16876,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":3,
     "victory":false,
     "floor_reached":9,
@@ -17086,7 +17086,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":3,
     "victory":true,
     "floor_reached":50,
@@ -17971,7 +17971,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":1,
     "victory":false,
     "floor_reached":2,
@@ -18032,7 +18032,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":1,
     "victory":false,
     "floor_reached":1,
@@ -18083,7 +18083,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":1,
     "victory":false,
     "floor_reached":33,
@@ -18739,7 +18739,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":1,
     "victory":false,
     "floor_reached":0,
@@ -18780,7 +18780,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":1,
     "victory":false,
     "floor_reached":24,
@@ -19380,7 +19380,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":1,
     "victory":true,
     "floor_reached":48,
@@ -20292,7 +20292,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":1,
     "victory":false,
     "floor_reached":9,
@@ -20548,7 +20548,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":1,
     "victory":true,
     "floor_reached":48,
@@ -21412,7 +21412,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":4,
     "victory":false,
     "floor_reached":33,
@@ -21937,7 +21937,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":4,
     "victory":false,
     "floor_reached":25,
@@ -22479,7 +22479,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":2,
     "victory":false,
     "floor_reached":33,
@@ -23107,7 +23107,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":2,
     "victory":true,
     "floor_reached":48,
@@ -23939,7 +23939,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.REGENT",
+    "character_chosen":"Regent",
     "ascension_level":1,
     "victory":false,
     "floor_reached":33,
@@ -24539,7 +24539,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":4,
     "victory":false,
     "floor_reached":33,
@@ -25318,7 +25318,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":4,
     "victory":false,
     "floor_reached":17,
@@ -25638,7 +25638,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":4,
     "victory":false,
     "floor_reached":24,
@@ -26200,7 +26200,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":4,
     "victory":true,
     "floor_reached":48,
@@ -27120,7 +27120,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":5,
     "victory":false,
     "floor_reached":24,
@@ -27812,7 +27812,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":5,
     "victory":false,
     "floor_reached":39,
@@ -28851,7 +28851,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":3,
     "victory":true,
     "floor_reached":48,
@@ -29747,7 +29747,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":4,
     "victory":true,
     "floor_reached":48,
@@ -30616,7 +30616,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":5,
     "victory":true,
     "floor_reached":48,
@@ -31404,7 +31404,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":6,
     "victory":false,
     "floor_reached":9,
@@ -31713,7 +31713,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":6,
     "victory":false,
     "floor_reached":0,
@@ -31754,7 +31754,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":6,
     "victory":false,
     "floor_reached":1,
@@ -31805,7 +31805,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":2,
     "victory":true,
     "floor_reached":48,
@@ -32518,7 +32518,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":2,
     "victory":false,
     "floor_reached":8,
@@ -32718,7 +32718,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":6,
     "victory":false,
     "floor_reached":33,
@@ -33389,7 +33389,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":6,
     "victory":false,
     "floor_reached":39,
@@ -33982,7 +33982,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":5,
     "victory":true,
     "floor_reached":48,
@@ -34891,7 +34891,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":6,
     "victory":false,
     "floor_reached":17,
@@ -35280,7 +35280,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":6,
     "victory":false,
     "floor_reached":25,
@@ -35799,7 +35799,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":6,
     "victory":false,
     "floor_reached":33,
@@ -36436,7 +36436,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":6,
     "victory":false,
     "floor_reached":17,
@@ -36817,7 +36817,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":6,
     "victory":false,
     "floor_reached":33,
@@ -37573,7 +37573,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":6,
     "victory":true,
     "floor_reached":48,
@@ -38668,7 +38668,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":7,
     "victory":true,
     "floor_reached":48,
@@ -39612,7 +39612,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":8,
     "victory":false,
     "floor_reached":13,
@@ -39945,7 +39945,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":8,
     "victory":true,
     "floor_reached":48,
@@ -40863,7 +40863,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":9,
     "victory":false,
     "floor_reached":17,
@@ -41305,7 +41305,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":9,
     "victory":false,
     "floor_reached":33,
@@ -41961,7 +41961,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":9,
     "victory":false,
     "floor_reached":29,
@@ -42402,7 +42402,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":6,
     "victory":false,
     "floor_reached":33,
@@ -43037,7 +43037,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":6,
     "victory":false,
     "floor_reached":17,
@@ -43410,7 +43410,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":9,
     "victory":false,
     "floor_reached":33,
@@ -44083,7 +44083,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":6,
     "victory":false,
     "floor_reached":31,
@@ -44843,7 +44843,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":3,
     "victory":false,
     "floor_reached":48,
@@ -45763,7 +45763,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":6,
     "victory":true,
     "floor_reached":48,
@@ -46700,7 +46700,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":7,
     "victory":false,
     "floor_reached":33,
@@ -47300,7 +47300,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":7,
     "victory":true,
     "floor_reached":48,
@@ -48220,7 +48220,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":8,
     "victory":false,
     "floor_reached":12,
@@ -48396,7 +48396,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":8,
     "victory":false,
     "floor_reached":24,
@@ -48817,7 +48817,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":8,
     "victory":false,
     "floor_reached":27,
@@ -49346,7 +49346,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":8,
     "victory":false,
     "floor_reached":33,
@@ -49842,7 +49842,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":8,
     "victory":false,
     "floor_reached":14,
@@ -50096,7 +50096,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":8,
     "victory":false,
     "floor_reached":13,
@@ -50417,7 +50417,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":8,
     "victory":true,
     "floor_reached":48,
@@ -51278,7 +51278,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":17,
@@ -51588,7 +51588,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":49,
@@ -52608,7 +52608,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":8,
@@ -52795,7 +52795,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":7,
@@ -52929,7 +52929,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":48,
@@ -53795,7 +53795,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":9,
     "victory":false,
     "floor_reached":48,
@@ -54659,7 +54659,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":3,
     "victory":true,
     "floor_reached":48,
@@ -55677,7 +55677,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":2,
     "victory":true,
     "floor_reached":50,
@@ -56415,7 +56415,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":4,
     "victory":false,
     "floor_reached":23,
@@ -56874,7 +56874,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":17,
@@ -57178,7 +57178,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":7,
@@ -57416,7 +57416,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":17,
@@ -57766,7 +57766,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":30,
@@ -58330,7 +58330,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":17,
@@ -58750,7 +58750,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":11,
@@ -58975,7 +58975,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":1,
@@ -59026,7 +59026,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":11,
@@ -59417,7 +59417,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":23,
@@ -59888,7 +59888,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":23,
@@ -60437,7 +60437,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":17,
@@ -60847,7 +60847,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":17,
@@ -61196,7 +61196,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":50,
@@ -62060,7 +62060,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":27,
@@ -62545,7 +62545,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":9,
     "victory":false,
     "floor_reached":24,
@@ -63060,7 +63060,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":7,
@@ -63239,7 +63239,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":17,
@@ -63620,7 +63620,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":3,
@@ -63718,7 +63718,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":48,
@@ -64655,7 +64655,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":4,
     "victory":true,
     "floor_reached":48,
@@ -65574,7 +65574,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":5,
     "victory":false,
     "floor_reached":15,
@@ -65924,7 +65924,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":5,
     "victory":false,
     "floor_reached":33,
@@ -66654,7 +66654,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":33,
@@ -67345,7 +67345,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":14,
@@ -67569,7 +67569,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":true,
     "floor_reached":49,
@@ -68326,7 +68326,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":5,
     "victory":true,
     "floor_reached":48,
@@ -69325,7 +69325,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":6,
     "victory":false,
     "floor_reached":23,
@@ -69837,7 +69837,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":6,
     "victory":true,
     "floor_reached":48,
@@ -70849,7 +70849,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":7,
     "victory":false,
     "floor_reached":48,
@@ -71611,7 +71611,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":7,
     "victory":false,
     "floor_reached":33,
@@ -72159,7 +72159,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":3,
     "victory":false,
     "floor_reached":17,
@@ -72487,7 +72487,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":3,
     "victory":false,
     "floor_reached":17,
@@ -72866,7 +72866,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":3,
     "victory":false,
     "floor_reached":24,
@@ -73408,7 +73408,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":9,
     "victory":false,
     "floor_reached":48,
@@ -74240,7 +74240,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":9,
     "victory":false,
     "floor_reached":6,
@@ -74403,7 +74403,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":9,
     "victory":false,
     "floor_reached":17,
@@ -74825,7 +74825,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":9,
     "victory":false,
     "floor_reached":7,
@@ -75049,7 +75049,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":9,
     "victory":false,
     "floor_reached":17,
@@ -75430,7 +75430,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":7,
     "victory":false,
     "floor_reached":48,
@@ -76197,7 +76197,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":9,
     "victory":false,
     "floor_reached":31,
@@ -76852,7 +76852,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":9,
     "victory":false,
     "floor_reached":17,
@@ -77255,7 +77255,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":9,
     "victory":false,
     "floor_reached":17,
@@ -77647,7 +77647,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":9,
     "victory":false,
     "floor_reached":7,
@@ -77891,7 +77891,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":9,
     "victory":false,
     "floor_reached":25,
@@ -78494,7 +78494,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":3,
     "victory":true,
     "floor_reached":48,
@@ -79488,7 +79488,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":9,
     "victory":false,
     "floor_reached":8,
@@ -79598,7 +79598,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":9,
     "victory":false,
     "floor_reached":28,
@@ -80135,7 +80135,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":9,
     "victory":false,
     "floor_reached":8,
@@ -80337,7 +80337,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":9,
     "victory":true,
     "floor_reached":48,
@@ -81364,7 +81364,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":4,
     "victory":true,
     "floor_reached":48,
@@ -82191,7 +82191,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":7,
     "victory":false,
     "floor_reached":33,
@@ -82872,7 +82872,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":7,
     "victory":false,
     "floor_reached":27,
@@ -83452,7 +83452,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":5,
     "victory":true,
     "floor_reached":48,
@@ -84259,7 +84259,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":7,
     "victory":true,
     "floor_reached":48,
@@ -85050,7 +85050,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":6,
     "victory":false,
     "floor_reached":11,
@@ -85291,7 +85291,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":6,
     "victory":false,
     "floor_reached":33,
@@ -85957,7 +85957,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":8,
     "victory":false,
     "floor_reached":33,
@@ -86562,7 +86562,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":8,
     "victory":false,
     "floor_reached":48,
@@ -87396,7 +87396,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":6,
     "victory":false,
     "floor_reached":33,
@@ -88032,7 +88032,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":8,
     "victory":true,
     "floor_reached":48,
@@ -88865,7 +88865,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":9,
     "victory":false,
     "floor_reached":48,
@@ -89793,7 +89793,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":6,
     "victory":false,
     "floor_reached":48,
@@ -90589,7 +90589,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":9,
     "victory":false,
     "floor_reached":28,
@@ -91068,7 +91068,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":9,
     "victory":false,
     "floor_reached":17,
@@ -91403,7 +91403,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":6,
     "victory":false,
     "floor_reached":48,
@@ -92618,7 +92618,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":10,
     "victory":false,
     "floor_reached":17,
@@ -92891,7 +92891,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":10,
     "victory":false,
     "floor_reached":9,
@@ -93125,7 +93125,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":10,
     "victory":false,
     "floor_reached":14,
@@ -93488,7 +93488,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":10,
     "victory":false,
     "floor_reached":7,
@@ -93706,7 +93706,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":10,
     "victory":false,
     "floor_reached":29,
@@ -94226,7 +94226,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":10,
     "victory":false,
     "floor_reached":17,
@@ -94554,7 +94554,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":10,
     "victory":false,
     "floor_reached":12,
@@ -94806,7 +94806,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":10,
     "victory":false,
     "floor_reached":8,
@@ -94974,7 +94974,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":10,
     "victory":false,
     "floor_reached":33,
@@ -95578,7 +95578,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":10,
     "victory":false,
     "floor_reached":17,
@@ -95985,7 +95985,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":10,
     "victory":false,
     "floor_reached":24,
@@ -96439,7 +96439,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":10,
     "victory":false,
     "floor_reached":48,
@@ -97500,7 +97500,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":10,
     "victory":false,
     "floor_reached":48,
@@ -98248,7 +98248,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":10,
     "victory":false,
     "floor_reached":12,
@@ -98442,7 +98442,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":10,
     "victory":false,
     "floor_reached":11,
@@ -98716,7 +98716,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":10,
     "victory":false,
     "floor_reached":17,
@@ -99072,7 +99072,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":10,
     "victory":false,
     "floor_reached":30,
@@ -99680,7 +99680,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":9,
     "victory":false,
     "floor_reached":24,
@@ -100125,7 +100125,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":9,
     "victory":false,
     "floor_reached":13,
@@ -100386,7 +100386,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":9,
     "victory":false,
     "floor_reached":33,
@@ -100898,7 +100898,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":9,
     "victory":false,
     "floor_reached":24,
@@ -101416,7 +101416,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":9,
     "victory":true,
     "floor_reached":48,
@@ -102327,7 +102327,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":10,
     "victory":false,
     "floor_reached":33,
@@ -102903,7 +102903,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.REGENT",
+    "character_chosen":"Regent",
     "ascension_level":1,
     "victory":false,
     "floor_reached":33,
@@ -103554,7 +103554,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.REGENT",
+    "character_chosen":"Regent",
     "ascension_level":1,
     "victory":false,
     "floor_reached":21,
@@ -104037,7 +104037,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":25,
@@ -104622,7 +104622,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":7,
@@ -104798,7 +104798,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":10,
     "victory":false,
     "floor_reached":13,
@@ -105075,7 +105075,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":10,
     "victory":false,
     "floor_reached":3,
@@ -105163,7 +105163,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":10,
     "victory":false,
     "floor_reached":1,
@@ -105214,7 +105214,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.REGENT",
+    "character_chosen":"Regent",
     "ascension_level":1,
     "victory":false,
     "floor_reached":33,
@@ -105861,7 +105861,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.REGENT",
+    "character_chosen":"Regent",
     "ascension_level":1,
     "victory":true,
     "floor_reached":48,
@@ -106821,7 +106821,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.REGENT",
+    "character_chosen":"Regent",
     "ascension_level":2,
     "victory":true,
     "floor_reached":48,
@@ -107538,7 +107538,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":6,
     "victory":true,
     "floor_reached":48,
@@ -108543,7 +108543,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":7,
     "victory":false,
     "floor_reached":48,
@@ -109447,7 +109447,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":7,
     "victory":false,
     "floor_reached":25,
@@ -109890,7 +109890,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":7,
     "victory":true,
     "floor_reached":48,
@@ -110675,7 +110675,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":10,
     "victory":false,
     "floor_reached":7,
@@ -110813,7 +110813,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.REGENT",
+    "character_chosen":"Regent",
     "ascension_level":3,
     "victory":false,
     "floor_reached":33,
@@ -111548,7 +111548,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.REGENT",
+    "character_chosen":"Regent",
     "ascension_level":3,
     "victory":false,
     "floor_reached":3,
@@ -111647,7 +111647,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.REGENT",
+    "character_chosen":"Regent",
     "ascension_level":3,
     "victory":false,
     "floor_reached":2,
@@ -111716,7 +111716,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":10,
     "victory":false,
     "floor_reached":14,
@@ -111976,7 +111976,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":10,
     "victory":false,
     "floor_reached":33,
@@ -112560,7 +112560,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":10,
     "victory":false,
     "floor_reached":8,
@@ -112780,7 +112780,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":10,
     "victory":false,
     "floor_reached":33,
@@ -113522,7 +113522,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":10,
     "victory":false,
     "floor_reached":14,
@@ -113866,7 +113866,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":10,
     "victory":false,
     "floor_reached":48,
@@ -114829,7 +114829,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":33,
@@ -115543,7 +115543,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":8,
     "victory":false,
     "floor_reached":40,
@@ -116602,7 +116602,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":8,
     "victory":false,
     "floor_reached":12,
@@ -116870,7 +116870,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":8,
     "victory":false,
     "floor_reached":48,
@@ -117708,7 +117708,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":17,
@@ -118058,7 +118058,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":9,
@@ -118266,7 +118266,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":8,
@@ -118491,7 +118491,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":17,
@@ -118860,7 +118860,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":7,
@@ -119028,7 +119028,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":8,
     "victory":false,
     "floor_reached":44,
@@ -119779,7 +119779,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":8,
     "victory":false,
     "floor_reached":33,
@@ -120543,7 +120543,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":8,
     "victory":false,
     "floor_reached":1,
@@ -120594,7 +120594,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":8,
     "victory":false,
     "floor_reached":1,
@@ -120645,7 +120645,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":8,
     "victory":true,
     "floor_reached":48,
@@ -121469,7 +121469,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.REGENT",
+    "character_chosen":"Regent",
     "ascension_level":3,
     "victory":true,
     "floor_reached":48,
@@ -122401,7 +122401,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.REGENT",
+    "character_chosen":"Regent",
     "ascension_level":4,
     "victory":false,
     "floor_reached":24,
@@ -122861,7 +122861,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":10,
     "victory":false,
     "floor_reached":6,
@@ -123070,7 +123070,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":10,
     "victory":false,
     "floor_reached":15,
@@ -123428,7 +123428,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":17,
@@ -123751,7 +123751,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":33,
@@ -124367,7 +124367,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.REGENT",
+    "character_chosen":"Regent",
     "ascension_level":4,
     "victory":true,
     "floor_reached":48,
@@ -125349,7 +125349,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.REGENT",
+    "character_chosen":"Regent",
     "ascension_level":5,
     "victory":false,
     "floor_reached":48,
@@ -126177,7 +126177,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":8,
@@ -126396,7 +126396,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":3,
@@ -126515,7 +126515,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":7,
@@ -126676,7 +126676,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":24,
@@ -127118,7 +127118,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":11,
@@ -127355,7 +127355,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.REGENT",
+    "character_chosen":"Regent",
     "ascension_level":5,
     "victory":false,
     "floor_reached":2,
@@ -127416,7 +127416,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":46,
@@ -128218,7 +128218,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":10,
     "victory":false,
     "floor_reached":31,
@@ -128689,7 +128689,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":10,
     "victory":false,
     "floor_reached":0,
@@ -128730,7 +128730,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":17,
@@ -129139,7 +129139,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":17,
@@ -129436,7 +129436,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":17,
@@ -129747,7 +129747,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":10,
     "victory":false,
     "floor_reached":24,
@@ -130191,7 +130191,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":10,
     "victory":false,
     "floor_reached":25,
@@ -130618,7 +130618,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":10,
     "victory":false,
     "floor_reached":33,
@@ -131262,7 +131262,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":9,
@@ -131455,7 +131455,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":2,
@@ -131516,7 +131516,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":5,
@@ -131633,7 +131633,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":6,
@@ -131799,7 +131799,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":15,
@@ -132149,7 +132149,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":1,
@@ -132200,7 +132200,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":11,
@@ -132410,7 +132410,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":9,
@@ -132541,7 +132541,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":48,
@@ -133499,7 +133499,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":30,
@@ -134077,7 +134077,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":24,
@@ -134627,7 +134627,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.REGENT",
+    "character_chosen":"Regent",
     "ascension_level":5,
     "victory":false,
     "floor_reached":42,
@@ -135426,7 +135426,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":17,
@@ -135742,7 +135742,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":9,
@@ -136007,7 +136007,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":15,
@@ -136263,7 +136263,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":3,
@@ -136352,7 +136352,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":24,
@@ -136792,7 +136792,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":8,
@@ -136982,7 +136982,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":30,
@@ -137728,7 +137728,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":2,
@@ -137787,7 +137787,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":6,
@@ -137939,7 +137939,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":17,
@@ -138275,7 +138275,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":12,
@@ -138551,7 +138551,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":11,
@@ -138797,7 +138797,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":31,
@@ -139383,7 +139383,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":0,
@@ -139424,7 +139424,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":46,
@@ -140359,7 +140359,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.REGENT",
+    "character_chosen":"Regent",
     "ascension_level":5,
     "victory":false,
     "floor_reached":17,
@@ -140762,7 +140762,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.REGENT",
+    "character_chosen":"Regent",
     "ascension_level":5,
     "victory":true,
     "floor_reached":48,
@@ -141690,7 +141690,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":2,
@@ -141760,7 +141760,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":30,
@@ -142330,7 +142330,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.REGENT",
+    "character_chosen":"Regent",
     "ascension_level":6,
     "victory":true,
     "floor_reached":48,
@@ -143164,7 +143164,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.REGENT",
+    "character_chosen":"Regent",
     "ascension_level":7,
     "victory":true,
     "floor_reached":48,
@@ -144163,7 +144163,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":10,
     "victory":false,
     "floor_reached":48,
@@ -145152,7 +145152,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.REGENT",
+    "character_chosen":"Regent",
     "ascension_level":8,
     "victory":false,
     "floor_reached":29,
@@ -145708,7 +145708,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.DEFECT",
+    "character_chosen":"Defect",
     "ascension_level":10,
     "victory":false,
     "floor_reached":40,
@@ -146600,7 +146600,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":24,
@@ -147085,7 +147085,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.SILENT",
+    "character_chosen":"Silent",
     "ascension_level":10,
     "victory":false,
     "floor_reached":28,
@@ -147528,7 +147528,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.IRONCLAD",
+    "character_chosen":"Ironclad",
     "ascension_level":10,
     "victory":false,
     "floor_reached":49,
@@ -148417,7 +148417,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":17,
@@ -148741,7 +148741,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":9,
@@ -148995,7 +148995,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":48,
@@ -149854,7 +149854,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":6,
@@ -150015,7 +150015,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":31,
@@ -150730,7 +150730,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":28,
@@ -151354,7 +151354,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":30,
@@ -151859,7 +151859,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":false,
     "floor_reached":23,
@@ -152335,7 +152335,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.NECROBINDER",
+    "character_chosen":"Necrobinder",
     "ascension_level":9,
     "victory":true,
     "floor_reached":48,
@@ -153347,7 +153347,7 @@
     ]
   },
   {
-    "character_chosen":"CHARACTER.REGENT",
+    "character_chosen":"Regent",
     "ascension_level":8,
     "victory":true,
     "floor_reached":48,
@@ -154161,6 +154161,1712 @@
         "id":"SPEEDY",
         "rarity":"silver"
       }
+    ]
+  },
+  {
+    "character_chosen":"Regent",
+    "ascension_level":9,
+    "victory":false,
+    "floor_reached":22,
+    "playtime":708,
+    "abandonded":false,
+    "card_choices":[
+      {
+        "floor":1,
+        "picked":{
+          "name":"CARD.SLICE",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.BOUNCING_FLASK",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.BARRAGE",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.RUPTURE",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.LEAP",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      },
+      {
+        "floor":2,
+        "picked":{
+          "name":"CARD.CHARGE",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.HIDDEN_CACHE",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.PATTER",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      },
+      {
+        "floor":5,
+        "picked":{
+          "name":"CARD.SOLAR_STRIKE",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.CRUSH_UNDER",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.HEGEMONY",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      },
+      {
+        "floor":6,
+        "picked":{
+          "name":"CARD.CHILD_OF_THE_STARS",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.CLOAK_OF_STARS",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.CRUSH_UNDER",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      },
+      {
+        "floor":8,
+        "picked":{
+          "name":"CARD.PARTICLE_WALL",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.COLLISION_COURSE",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.PALE_BLUE_DOT",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      },
+      {
+        "floor":11,
+        "picked":{
+          "name":"CARD.ASTRAL_PULSE",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.KNOW_THY_PLACE",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.COLLISION_COURSE",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      },
+      {
+        "floor":14,
+        "picked":{
+          "name":"CARD.GUIDING_STAR",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.SPECTRUM_SHIFT",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.BEGONE",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      },
+      {
+        "floor":17,
+        "picked":{
+          "name":"CARD.TYRANNY",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.THE_SMITH",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.HEAVENLY_DRILL",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      },
+      {
+        "floor":21,
+        "picked":{
+          "name":"CARD.HIDDEN_CACHE",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.RADIATE",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.CONQUEROR",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      }
+    ],
+    "potion_choices":[
+      {
+        "floor":2,
+        "picked":[
+          {
+            "name":"POTION.FLEX_POTION"
+          }
+        ],
+        "not_picked":[
+
+        ]
+      },
+      {
+        "floor":5,
+        "picked":[
+          {
+            "name":"POTION.STAR_POTION"
+          }
+        ],
+        "not_picked":[
+
+        ]
+      },
+      {
+        "floor":6,
+        "picked":[
+          {
+            "name":"POTION.SWIFT_POTION"
+          }
+        ],
+        "not_picked":[
+
+        ]
+      },
+      {
+        "floor":14,
+        "picked":[
+          {
+            "name":"POTION.FLEX_POTION"
+          }
+        ],
+        "not_picked":[
+
+        ]
+      },
+      {
+        "floor":17,
+        "picked":[
+          {
+            "name":"POTION.VULNERABLE_POTION"
+          }
+        ],
+        "not_picked":[
+
+        ]
+      }
+    ],
+    "potions_used":[
+      {
+        "floor":8,
+        "potion":{
+          "name":"POTION.SWIFT_POTION"
+        }
+      },
+      {
+        "floor":17,
+        "potion":{
+          "name":"POTION.STAR_POTION"
+        }
+      },
+      {
+        "floor":17,
+        "potion":{
+          "name":"POTION.FLEX_POTION"
+        }
+      }
+    ],
+    "potions_discarded":[
+      {
+        "floor":6,
+        "potion":{
+          "name":"POTION.FLEX_POTION"
+        }
+      }
+    ],
+    "campfire_choices":[
+      {
+        "floor":7,
+        "picked":"SMITH",
+        "data":{
+          "name":"CARD.CHILD_OF_THE_STARS",
+          "upgraded":true,
+          "enchantment":null
+        }
+      },
+      {
+        "floor":9,
+        "picked":"HEAL",
+        "data":null
+      },
+      {
+        "floor":12,
+        "picked":"HEAL",
+        "data":null
+      },
+      {
+        "floor":16,
+        "picked":"HEAL",
+        "data":null
+      }
+    ],
+    "event_choices":[
+
+    ],
+    "ancient_choices":[
+      {
+        "floor":1,
+        "picked":"KALEIDOSCOPE",
+        "not_picked":[
+          "BOOMING_CONCH",
+          "LARGE_CAPSULE"
+        ]
+      },
+      {
+        "floor":18,
+        "picked":"BLACK_STAR",
+        "not_picked":[
+          "ASTROLABE",
+          "PANDORAS_BOX"
+        ]
+      }
+    ],
+    "relics":[
+      {
+        "floor":1,
+        "name":"RELIC.KALEIDOSCOPE"
+      },
+      {
+        "floor":3,
+        "name":"RELIC.SWORD_OF_STONE"
+      },
+      {
+        "floor":8,
+        "name":"RELIC.REPTILE_TRINKET"
+      },
+      {
+        "floor":10,
+        "name":"RELIC.FROZEN_EGG"
+      },
+      {
+        "floor":13,
+        "name":"RELIC.KUSARIGAMA"
+      },
+      {
+        "floor":18,
+        "name":"RELIC.BLACK_STAR"
+      }
+    ],
+    "monsters":[
+      {
+        "floor":2,
+        "enemies":[
+          "MONSTER.FUZZY_WURM_CRAWLER"
+        ],
+        "type":"monster",
+        "turns":4,
+        "damage":7
+      },
+      {
+        "floor":5,
+        "enemies":[
+          "MONSTER.TWIG_SLIME_S",
+          "MONSTER.LEAF_SLIME_M",
+          "MONSTER.LEAF_SLIME_S"
+        ],
+        "type":"monster",
+        "turns":2,
+        "damage":0
+      },
+      {
+        "floor":6,
+        "enemies":[
+          "MONSTER.NIBBIT"
+        ],
+        "type":"monster",
+        "turns":4,
+        "damage":2
+      },
+      {
+        "floor":8,
+        "enemies":[
+          "MONSTER.BYGONE_EFFIGY"
+        ],
+        "type":"elite",
+        "turns":5,
+        "damage":42
+      },
+      {
+        "floor":11,
+        "enemies":[
+          "MONSTER.LEAF_SLIME_M",
+          "MONSTER.FLYCONID"
+        ],
+        "type":"monster",
+        "turns":5,
+        "damage":20
+      },
+      {
+        "floor":14,
+        "enemies":[
+          "MONSTER.SHRINKER_BEETLE",
+          "MONSTER.FUZZY_WURM_CRAWLER"
+        ],
+        "type":"monster",
+        "turns":5,
+        "damage":9
+      },
+      {
+        "floor":17,
+        "enemies":[
+          "MONSTER.KIN_FOLLOWER",
+          "MONSTER.KIN_FOLLOWER",
+          "MONSTER.KIN_PRIEST"
+        ],
+        "type":"boss",
+        "turns":9,
+        "damage":29
+      },
+      {
+        "floor":19,
+        "enemies":[
+          "MONSTER.TUNNELER"
+        ],
+        "type":"monster",
+        "turns":6,
+        "damage":15
+      },
+      {
+        "floor":21,
+        "enemies":[
+          "MONSTER.EXOSKELETON",
+          "MONSTER.EXOSKELETON",
+          "MONSTER.EXOSKELETON"
+        ],
+        "type":"monster",
+        "turns":4,
+        "damage":10
+      },
+      {
+        "floor":22,
+        "enemies":[
+          "MONSTER.BOWLBUG_ROCK",
+          "MONSTER.BOWLBUG_SILK",
+          "MONSTER.SLUMBERING_BEETLE"
+        ],
+        "type":"monster",
+        "turns":3,
+        "damage":38
+      }
+    ],
+    "master_deck":[
+
+    ],
+    "badges":[
+
+    ]
+  },
+  {
+    "character_chosen":"Regent",
+    "ascension_level":9,
+    "victory":false,
+    "floor_reached":29,
+    "playtime":1256,
+    "abandonded":false,
+    "card_choices":[
+      {
+        "floor":2,
+        "picked":{
+          "name":"CARD.BULWARK",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.ASTRAL_PULSE",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.CELESTIAL_MIGHT",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      },
+      {
+        "floor":6,
+        "picked":{
+          "name":"CARD.COSMIC_INDIFFERENCE",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.CLOAK_OF_STARS",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.DEVASTATE",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      },
+      {
+        "floor":8,
+        "picked":{
+          "name":"CARD.PATTER",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.CLOAK_OF_STARS",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.CHILD_OF_THE_STARS",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      },
+      {
+        "floor":9,
+        "picked":{
+          "name":"CARD.GATHER_LIGHT",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.HEGEMONY",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.BEGONE",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      },
+      {
+        "floor":11,
+        "picked":{
+          "name":"CARD.WROUGHT_IN_WAR",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.SPECTRUM_SHIFT",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.REFINE_BLADE",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      },
+      {
+        "floor":12,
+        "picked":{
+          "name":"CARD.ORBIT",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.SPECTRUM_SHIFT",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.SOLAR_STRIKE",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      },
+      {
+        "floor":15,
+        "picked":{
+          "name":"CARD.BULWARK",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.CRUSH_UNDER",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.PARTICLE_WALL",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      },
+      {
+        "floor":17,
+        "picked":{
+          "name":"CARD.BEAT_INTO_SHAPE",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.FOREGONE_CONCLUSION",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.ARSENAL",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      },
+      {
+        "floor":19,
+        "picked":{
+          "name":"CARD.BLACK_HOLE",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.CELESTIAL_MIGHT",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.ROYAL_GAMBLE",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      },
+      {
+        "floor":22,
+        "picked":{
+          "name":"CARD.PARTICLE_WALL",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.PHOTON_CUT",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.COLLISION_COURSE",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      },
+      {
+        "floor":25,
+        "picked":{
+          "name":"CARD.WROUGHT_IN_WAR",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.CELESTIAL_MIGHT",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.PATTER",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      }
+    ],
+    "potion_choices":[
+      {
+        "floor":6,
+        "picked":[
+          {
+            "name":"POTION.STRENGTH_POTION"
+          }
+        ],
+        "not_picked":[
+
+        ]
+      },
+      {
+        "floor":8,
+        "picked":[
+          {
+            "name":"POTION.DUPLICATOR"
+          }
+        ],
+        "not_picked":[
+
+        ]
+      },
+      {
+        "floor":12,
+        "picked":[
+          {
+            "name":"POTION.COLORLESS_POTION"
+          }
+        ],
+        "not_picked":[
+
+        ]
+      },
+      {
+        "floor":17,
+        "picked":[
+          {
+            "name":"POTION.VULNERABLE_POTION"
+          }
+        ],
+        "not_picked":[
+
+        ]
+      },
+      {
+        "floor":21,
+        "picked":[
+          {
+            "name":"POTION.ENERGY_POTION"
+          }
+        ],
+        "not_picked":[
+
+        ]
+      },
+      {
+        "floor":28,
+        "picked":[
+          {
+            "name":"POTION.STRENGTH_POTION"
+          }
+        ],
+        "not_picked":[
+
+        ]
+      }
+    ],
+    "potions_used":[
+      {
+        "floor":8,
+        "potion":{
+          "name":"POTION.STRENGTH_POTION"
+        }
+      },
+      {
+        "floor":12,
+        "potion":{
+          "name":"POTION.DUPLICATOR"
+        }
+      },
+      {
+        "floor":17,
+        "potion":{
+          "name":"POTION.COLORLESS_POTION"
+        }
+      },
+      {
+        "floor":25,
+        "potion":{
+          "name":"POTION.ENERGY_POTION"
+        }
+      },
+      {
+        "floor":29,
+        "potion":{
+          "name":"POTION.STRENGTH_POTION"
+        }
+      },
+      {
+        "floor":29,
+        "potion":{
+          "name":"POTION.VULNERABLE_POTION"
+        }
+      }
+    ],
+    "potions_discarded":[
+
+    ],
+    "campfire_choices":[
+      {
+        "floor":7,
+        "picked":"SMITH",
+        "data":{
+          "name":"CARD.BULWARK",
+          "upgraded":true,
+          "enchantment":null
+        }
+      },
+      {
+        "floor":13,
+        "picked":"HEAL",
+        "data":null
+      },
+      {
+        "floor":16,
+        "picked":"HEAL",
+        "data":null
+      },
+      {
+        "floor":24,
+        "picked":"SMITH",
+        "data":{
+          "name":"CARD.ENLIGHTENMENT",
+          "upgraded":true,
+          "enchantment":null
+        }
+      },
+      {
+        "floor":27,
+        "picked":"SMITH",
+        "data":{
+          "name":"CARD.ENLIGHTENMENT",
+          "upgraded":true,
+          "enchantment":null
+        }
+      }
+    ],
+    "event_choices":[
+
+    ],
+    "ancient_choices":[
+      {
+        "floor":1,
+        "picked":"SILKEN_TRESS",
+        "not_picked":[
+          "STONE_HUMIDIFIER",
+          "NEOWS_TORMENT"
+        ]
+      },
+      {
+        "floor":18,
+        "picked":"RUNIC_PYRAMID",
+        "not_picked":[
+          "ASTROLABE",
+          "PANDORAS_BOX"
+        ]
+      }
+    ],
+    "relics":[
+      {
+        "floor":1,
+        "name":"RELIC.SILKEN_TRESS"
+      },
+      {
+        "floor":4,
+        "name":"RELIC.SWORD_OF_STONE"
+      },
+      {
+        "floor":8,
+        "name":"RELIC.MANGO"
+      },
+      {
+        "floor":10,
+        "name":"RELIC.BOOK_OF_FIVE_RINGS"
+      },
+      {
+        "floor":12,
+        "name":"RELIC.PENDULUM"
+      },
+      {
+        "floor":18,
+        "name":"RELIC.RUNIC_PYRAMID"
+      },
+      {
+        "floor":25,
+        "name":"RELIC.FROZEN_EGG"
+      },
+      {
+        "floor":26,
+        "name":"RELIC.POTION_BELT"
+      }
+    ],
+    "monsters":[
+      {
+        "floor":2,
+        "enemies":[
+          "MONSTER.TWIG_SLIME_S",
+          "MONSTER.TWIG_SLIME_M",
+          "MONSTER.LEAF_SLIME_S"
+        ],
+        "type":"monster",
+        "turns":5,
+        "damage":9
+      },
+      {
+        "floor":6,
+        "enemies":[
+          "MONSTER.NIBBIT"
+        ],
+        "type":"monster",
+        "turns":2,
+        "damage":0
+      },
+      {
+        "floor":8,
+        "enemies":[
+          "MONSTER.PHROG_PARASITE",
+          "MONSTER.WRIGGLER"
+        ],
+        "type":"elite",
+        "turns":10,
+        "damage":46
+      },
+      {
+        "floor":9,
+        "enemies":[
+          "MONSTER.SHRINKER_BEETLE"
+        ],
+        "type":"monster",
+        "turns":3,
+        "damage":0
+      },
+      {
+        "floor":11,
+        "enemies":[
+          "MONSTER.VINE_SHAMBLER"
+        ],
+        "type":"monster",
+        "turns":7,
+        "damage":3
+      },
+      {
+        "floor":12,
+        "enemies":[
+          "MONSTER.BYRDONIS"
+        ],
+        "type":"elite",
+        "turns":3,
+        "damage":14
+      },
+      {
+        "floor":14,
+        "enemies":[
+          "MONSTER.BRUTE_RUBY_RAIDER",
+          "MONSTER.AXE_RUBY_RAIDER",
+          "MONSTER.CROSSBOW_RUBY_RAIDER"
+        ],
+        "type":"monster",
+        "turns":7,
+        "damage":6
+      },
+      {
+        "floor":15,
+        "enemies":[
+          "MONSTER.CUBEX_CONSTRUCT"
+        ],
+        "type":"monster",
+        "turns":4,
+        "damage":0
+      },
+      {
+        "floor":17,
+        "enemies":[
+          "MONSTER.CEREMONIAL_BEAST"
+        ],
+        "type":"boss",
+        "turns":9,
+        "damage":8
+      },
+      {
+        "floor":19,
+        "enemies":[
+          "MONSTER.BOWLBUG_ROCK",
+          "MONSTER.BOWLBUG_NECTAR"
+        ],
+        "type":"monster",
+        "turns":5,
+        "damage":25
+      },
+      {
+        "floor":21,
+        "enemies":[
+          "MONSTER.TUNNELER"
+        ],
+        "type":"monster",
+        "turns":6,
+        "damage":6
+      },
+      {
+        "floor":22,
+        "enemies":[
+          "MONSTER.BOWLBUG_ROCK",
+          "MONSTER.BOWLBUG_SILK",
+          "MONSTER.BOWLBUG_NECTAR"
+        ],
+        "type":"monster",
+        "turns":7,
+        "damage":3
+      },
+      {
+        "floor":25,
+        "enemies":[
+          "MONSTER.DECIMILLIPEDE_SEGMENT_FRONT",
+          "MONSTER.DECIMILLIPEDE_SEGMENT_MIDDLE",
+          "MONSTER.DECIMILLIPEDE_SEGMENT_BACK"
+        ],
+        "type":"elite",
+        "turns":7,
+        "damage":35
+      },
+      {
+        "floor":29,
+        "enemies":[
+          "MONSTER.INFESTED_PRISM"
+        ],
+        "type":"elite",
+        "turns":7,
+        "damage":30
+      }
+    ],
+    "master_deck":[
+
+    ],
+    "badges":[
+      {
+        "id":"ELITE",
+        "rarity":"bronze"
+      }
+    ]
+  },
+  {
+    "character_chosen":"Regent",
+    "ascension_level":9,
+    "victory":false,
+    "floor_reached":2,
+    "playtime":31,
+    "abandonded":true,
+    "card_choices":[
+
+    ],
+    "potion_choices":[
+
+    ],
+    "potions_used":[
+
+    ],
+    "potions_discarded":[
+
+    ],
+    "campfire_choices":[
+
+    ],
+    "event_choices":[
+
+    ],
+    "ancient_choices":[
+      {
+        "floor":1,
+        "picked":"SILKEN_TRESS",
+        "not_picked":[
+          "NEW_LEAF",
+          "LAVA_ROCK"
+        ]
+      }
+    ],
+    "relics":[
+      {
+        "floor":1,
+        "name":"RELIC.SILKEN_TRESS"
+      }
+    ],
+    "monsters":[
+      {
+        "floor":2,
+        "enemies":[
+          "MONSTER.NIBBIT"
+        ],
+        "type":"monster",
+        "turns":4,
+        "damage":8
+      }
+    ],
+    "master_deck":[
+
+    ],
+    "badges":[
+
+    ]
+  },
+  {
+    "character_chosen":"Defect",
+    "ascension_level":10,
+    "victory":false,
+    "floor_reached":25,
+    "playtime":1003,
+    "abandonded":false,
+    "card_choices":[
+      {
+        "floor":1,
+        "picked":{
+          "name":"CARD.SUCKER_PUNCH",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.RICOCHET",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.HIGH_FIVE",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.BONE_SHARDS",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.HIDDEN_CACHE",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      },
+      {
+        "floor":2,
+        "picked":{
+          "name":"CARD.TEMPEST",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.DOUBLE_ENERGY",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.COLD_SNAP",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      },
+      {
+        "floor":3,
+        "picked":{
+          "name":"CARD.FERAL",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.LIGHTNING_ROD",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.SWEEPING_BEAM",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      },
+      {
+        "floor":4,
+        "picked":{
+          "name":"CARD.BALL_LIGHTNING",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.LEAP",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.FIGHT_THROUGH",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      },
+      {
+        "floor":8,
+        "picked":{
+          "name":"CARD.CHARGE_BATTERY",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.BALL_LIGHTNING",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.COMPILE_DRIVER",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      },
+      {
+        "floor":9,
+        "picked":{
+          "name":"CARD.BEAM_CELL",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.COLD_SNAP",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.CHAOS",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      },
+      {
+        "floor":17,
+        "picked":{
+          "name":"CARD.HELIX_DRILL",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.RAINBOW",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.TRASH_TO_TREASURE",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      },
+      {
+        "floor":19,
+        "picked":{
+          "name":"CARD.SWEEPING_BEAM",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.SHADOW_SHIELD",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.GUNK_UP",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.GUNK_UP",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.COOLHEADED",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      },
+      {
+        "floor":20,
+        "picked":{
+          "name":"CARD.BOOT_SEQUENCE",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.THUNDER",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.COLD_SNAP",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.FIGHT_THROUGH",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.LOOP",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.GUNK_UP",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      },
+      {
+        "floor":22,
+        "picked":{
+          "name":"CARD.CLAW",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.FOCUSED_STRIKE",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.COLD_SNAP",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.OVERCLOCK",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.FOCUSED_STRIKE",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      },
+      {
+        "floor":24,
+        "picked":{
+          "name":"CARD.CLAW",
+          "upgraded":false,
+          "enchantment":null
+        },
+        "not_picked":[
+          {
+            "name":"CARD.FIGHT_THROUGH",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.TESLA_COIL",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.COLD_SNAP",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.CHAOS",
+            "upgraded":false,
+            "enchantment":null
+          },
+          {
+            "name":"CARD.BEAM_CELL",
+            "upgraded":false,
+            "enchantment":null
+          }
+        ]
+      }
+    ],
+    "potion_choices":[
+      {
+        "floor":3,
+        "picked":[
+          {
+            "name":"POTION.VULNERABLE_POTION"
+          }
+        ],
+        "not_picked":[
+
+        ]
+      },
+      {
+        "floor":8,
+        "picked":[
+          {
+            "name":"POTION.DUPLICATOR"
+          }
+        ],
+        "not_picked":[
+
+        ]
+      },
+      {
+        "floor":12,
+        "picked":[
+          {
+            "name":"POTION.LUCKY_TONIC"
+          }
+        ],
+        "not_picked":[
+
+        ]
+      },
+      {
+        "floor":17,
+        "picked":[
+          {
+            "name":"POTION.SPEED_POTION"
+          }
+        ],
+        "not_picked":[
+
+        ]
+      },
+      {
+        "floor":22,
+        "picked":[
+          {
+            "name":"POTION.DROPLET_OF_PRECOGNITION"
+          }
+        ],
+        "not_picked":[
+
+        ]
+      },
+      {
+        "floor":24,
+        "picked":[
+          {
+            "name":"POTION.SPEED_POTION"
+          }
+        ],
+        "not_picked":[
+
+        ]
+      }
+    ],
+    "potions_used":[
+      {
+        "floor":9,
+        "potion":{
+          "name":"POTION.DUPLICATOR"
+        }
+      },
+      {
+        "floor":17,
+        "potion":{
+          "name":"POTION.VULNERABLE_POTION"
+        }
+      },
+      {
+        "floor":17,
+        "potion":{
+          "name":"POTION.LUCKY_TONIC"
+        }
+      },
+      {
+        "floor":24,
+        "potion":{
+          "name":"POTION.SPEED_POTION"
+        }
+      },
+      {
+        "floor":25,
+        "potion":{
+          "name":"POTION.DROPLET_OF_PRECOGNITION"
+        }
+      }
+    ],
+    "potions_discarded":[
+
+    ],
+    "campfire_choices":[
+      {
+        "floor":7,
+        "picked":"SMITH",
+        "data":{
+          "name":"CARD.FERAL",
+          "upgraded":true,
+          "enchantment":null
+        }
+      },
+      {
+        "floor":11,
+        "picked":"HEAL",
+        "data":null
+      },
+      {
+        "floor":13,
+        "picked":"SMITH",
+        "data":{
+          "name":"CARD.ANGER",
+          "upgraded":true,
+          "enchantment":null
+        }
+      },
+      {
+        "floor":16,
+        "picked":"HEAL",
+        "data":null
+      }
+    ],
+    "event_choices":[
+
+    ],
+    "ancient_choices":[
+      {
+        "floor":1,
+        "picked":"KALEIDOSCOPE",
+        "not_picked":[
+          "FISHING_ROD",
+          "LARGE_CAPSULE"
+        ]
+      },
+      {
+        "floor":18,
+        "picked":"CALLING_BELL",
+        "not_picked":[
+          "RUNIC_PYRAMID",
+          "DUSTY_TOME"
+        ]
+      }
+    ],
+    "relics":[
+      {
+        "floor":1,
+        "name":"RELIC.KALEIDOSCOPE"
+      },
+      {
+        "floor":9,
+        "name":"RELIC.VAJRA"
+      },
+      {
+        "floor":10,
+        "name":"RELIC.BAG_OF_MARBLES"
+      },
+      {
+        "floor":14,
+        "name":"RELIC.HAPPY_FLOWER"
+      },
+      {
+        "floor":18,
+        "name":"RELIC.CALLING_BELL"
+      },
+      {
+        "floor":18,
+        "name":"RELIC.PRAYER_WHEEL"
+      },
+      {
+        "floor":18,
+        "name":"RELIC.PENDULUM"
+      },
+      {
+        "floor":18,
+        "name":"RELIC.GREMLIN_HORN"
+      }
+    ],
+    "monsters":[
+      {
+        "floor":2,
+        "enemies":[
+          "MONSTER.FUZZY_WURM_CRAWLER"
+        ],
+        "type":"monster",
+        "turns":3,
+        "damage":0
+      },
+      {
+        "floor":4,
+        "enemies":[
+          "MONSTER.SHRINKER_BEETLE"
+        ],
+        "type":"monster",
+        "turns":3,
+        "damage":3
+      },
+      {
+        "floor":8,
+        "enemies":[
+          "MONSTER.LEAF_SLIME_S",
+          "MONSTER.LEAF_SLIME_S",
+          "MONSTER.SLITHERING_STRANGLER"
+        ],
+        "type":"monster",
+        "turns":5,
+        "damage":18
+      },
+      {
+        "floor":9,
+        "enemies":[
+          "MONSTER.BYRDONIS"
+        ],
+        "type":"elite",
+        "turns":4,
+        "damage":22
+      },
+      {
+        "floor":12,
+        "enemies":[
+          "MONSTER.CUBEX_CONSTRUCT"
+        ],
+        "type":"monster",
+        "turns":3,
+        "damage":0
+      },
+      {
+        "floor":14,
+        "enemies":[
+          "MONSTER.PHROG_PARASITE",
+          "MONSTER.WRIGGLER"
+        ],
+        "type":"elite",
+        "turns":5,
+        "damage":21
+      },
+      {
+        "floor":17,
+        "enemies":[
+          "MONSTER.CEREMONIAL_BEAST"
+        ],
+        "type":"boss",
+        "turns":7,
+        "damage":26
+      },
+      {
+        "floor":19,
+        "enemies":[
+          "MONSTER.EXOSKELETON",
+          "MONSTER.EXOSKELETON",
+          "MONSTER.EXOSKELETON"
+        ],
+        "type":"monster",
+        "turns":2,
+        "damage":0
+      },
+      {
+        "floor":20,
+        "enemies":[
+          "MONSTER.BOWLBUG_ROCK",
+          "MONSTER.BOWLBUG_EGG"
+        ],
+        "type":"monster",
+        "turns":1,
+        "damage":0
+      },
+      {
+        "floor":22,
+        "enemies":[
+          "MONSTER.SPINY_TOAD"
+        ],
+        "type":"monster",
+        "turns":4,
+        "damage":27
+      },
+      {
+        "floor":24,
+        "enemies":[
+          "MONSTER.LOUSE_PROGENITOR"
+        ],
+        "type":"monster",
+        "turns":5,
+        "damage":19
+      },
+      {
+        "floor":25,
+        "enemies":[
+          "MONSTER.MYTE",
+          "MONSTER.MYTE"
+        ],
+        "type":"monster",
+        "turns":2,
+        "damage":9
+      }
+    ],
+    "master_deck":[
+
+    ],
+    "badges":[
+
     ]
   }
 ]

@@ -4,7 +4,7 @@ from pathlib import Path
 from rich import print
 
 # Import your working parser from the extractor module
-from etl.extractor import parse_sts2_run
+from etl.parser import parse_sts2_run
 
 
 def process_all_runs(runs_dir: str, output_filepath: str) -> pd.DataFrame:
