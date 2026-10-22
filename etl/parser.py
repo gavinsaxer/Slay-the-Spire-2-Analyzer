@@ -2,7 +2,6 @@ import json
 import logging
 from pathlib import Path
 from typing import List
-from pydantic import ValidationError
 
 from core.schemas import *
 
@@ -84,8 +83,12 @@ def parse_sts2_run(raw_json: dict) -> RunData:
                 picked = None
                 not_picked = []
 
+                def process_card_name(name: str) -> str:
+                    name = name[5:]
+                    return name
+
                 for choice in stats["card_choices"]:
-                    card = Card(name = choice["card"]["id"], upgraded= False, enchantment=None)
+                    card = Card(name = process_card_name(choice["card"]["id"]), upgraded= False, enchantment=None)
                     if choice["was_picked"]:
                         picked = card
                     else:

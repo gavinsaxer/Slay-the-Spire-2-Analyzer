@@ -89,3 +89,74 @@ if not filtered_df.empty:
 
 else:
     st.warning("No runs match the selected filters.")
+
+st.divider()  # Adds a horizontal line for visual separation
+st.subheader("Card Pick & Skip Analysis")
+
+# 1. Character Filter Dropdown
+available_chars = filtered_df["character_chosen"].unique()
+
+if len(available_chars) > 0:
+    selected_char = st.selectbox("Select Character to Analyze", options=available_chars)
+    char_df = filtered_df[filtered_df["character_chosen"] == selected_char]
+
+    # 2. Unnest the card_choices array
+    # .explode() takes a list like [Choice1, Choice2] and creates a new dataframe row for each
+    exploded_choices = char_df.explode("card_choices").dropna(subset=["card_choices"])
+
+    if not exploded_choices.empty:
+        # 3. Extract the 'picked' card names
+        picked_series = (
+            exploded_choices["card_choices"]
+            .apply(
+                lambda c: (
+                    c.get("picked", {}).get("name")
+                    if isinstance(c, dict) and c.get("picked")
+                    else None
+                )
+            )
+            .dropna()
+        )
+
+        # 4. Extract the 'not_picked' card names
+        # Since not_picked is a list of cards, we extract the list of names, then explode again
+        not_picked_series = (
+            exploded_choices["card_choices"]
+            .apply(
+                lambda c: (
+                    [card.get("name") for card in c.get("not_picked", [])]
+                    if isinstance(c, dict)
+                    else []
+                )
+            )
+            .explode()
+            .dropna()
+        )
+
+        # 5. Display the top results side-by-side
+        col1, col2 = st.columns(2)
+
+        with col1:
+            st.markdown("### Most Picked")
+            if not picked_series.empty:
+                top_picked = picked_series.value_counts().reset_index()
+                top_picked.columns = ["Card", "Times Picked"]
+
+                # Display the #1 card as a large metric, and the top 5 as a table
+                st.metric("Top Pick", top_picked.iloc[0]["Card"])
+                st.dataframe(top_picked.head(5), hide_index=True)
+            else:
+                st.write("No card pick data available.")
+
+        with col2:
+            st.markdown("### Most Ignored")
+            if not not_picked_series.empty:
+                top_ignored = not_picked_series.value_counts().reset_index()
+                top_ignored.columns = ["Card", "Times Skipped"]
+
+                st.metric("Top Skip", top_ignored.iloc[0]["Card"])
+                st.dataframe(top_ignored.head(5), hide_index=True)
+            else:
+                st.write("No card skip data available.")
+else:
+    st.info("No runs available to analyze card choices.")
