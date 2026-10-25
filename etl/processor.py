@@ -46,7 +46,7 @@ if __name__ == "__main__":
     sts2_history_path = r"C:\Users\gavin\AppData\Roaming\SlayTheSpire2\steam\76561198284172076\profile1\saves\history"
 
     df = process_all_runs(
-        runs_dir=sts2_history_path, output_filepath="data/parsed_runs_dataset.json"
+        runs_dir=sts2_history_path, output_filepath="data/sample_runs_dataset.json"
     )
 
     if not df.empty:

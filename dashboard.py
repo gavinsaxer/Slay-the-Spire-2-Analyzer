@@ -1,16 +1,78 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+from pathlib import Path
+import platform
+
+# Import your batch processor
+from etl.processor import process_all_runs
 
 st.set_page_config(page_title="StS2 Run Analyzer", layout="wide")
 st.title("Slay the Spire 2 Data Analysis")
 
+
+def get_local_sts2_path():
+    """Finds the local StS2 history folder across different OS and Steam IDs."""
+    if platform.system() == "Windows":
+        base_path = Path.home() / "AppData" / "Roaming" / "SlayTheSpire2" / "steam"
+    elif platform.system() == "Darwin":  # macOS
+        base_path = (
+            Path.home() / "Library" / "Application Support" / "SlayTheSpire2" / "steam"
+        )
+    else:  # Linux
+        base_path = Path.home() / ".config" / "SlayTheSpire2" / "steam"
+
+    if base_path.exists():
+        for item in base_path.iterdir():
+            if item.is_dir():
+                history_path = item / "profile1" / "saves" / "history"
+                if history_path.exists():
+                    return str(history_path)
+    return None
+
+
 @st.cache_data
-def load_data():
-    return pd.read_json("data/parsed_runs_dataset.json")
+def load_data(data_source="Sample Data"):
+    if data_source == "Sample Data":
+        # Load your pre-parsed data as the fallback
+        try:
+            return pd.read_json("data/sample_runs_dataset.json")
+        except FileNotFoundError:
+            return pd.DataFrame()
+
+    elif data_source == "Auto-Detect Local Runs":
+        local_path = get_local_sts2_path()
+
+        if not local_path:
+            st.error("Could not locate local Slay the Spire 2 save files.")
+            return pd.DataFrame()
+
+        # Run the ETL pipeline on the fly and save it to a temporary local file
+        return process_all_runs(
+            runs_dir=local_path, output_filepath="data/user_local_dataset.json"
+        )
 
 df = load_data()
 
+# 3. Sidebar Interactive Filters
+st.sidebar.header("Data Source")
+
+# Let the user choose their data
+data_choice = st.sidebar.radio(
+    "Select Data to Analyze:", options=["Sample Data", "Auto-Detect Local Runs"]
+)
+
+# Use a Streamlit spinner while the ETL pipeline parses their local files
+with st.spinner("Loading Run Data..."):
+    df = load_data(data_choice)
+
+if df.empty:
+    st.warning(
+        "No data found. Please ensure the dataset exists or local saves are present."
+    )
+    st.stop()  # Halts the rest of the script from crashing
+
+st.sidebar.divider()
 st.sidebar.header("Filters")
 
 # Toggle for abandoned runs

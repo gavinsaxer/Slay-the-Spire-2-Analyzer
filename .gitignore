@@ -218,3 +218,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Ignore dynamically generated user datasets
+data/user_local_dataset.json
+
+# Ignore raw local run files (if you have a folder for testing)
+test_runs/
+*.run
+
+# Standard Python ignores
+__pycache__/
+*.py[cod]
+.venv/
