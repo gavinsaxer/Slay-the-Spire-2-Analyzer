@@ -44,7 +44,7 @@ class EventChoice(BaseModel):
     max_hp_lost: int = 0
 
 class AncientChoice(BaseModel):
-    floor: int
+    act: int
     picked: str
     not_picked: List[str]
 

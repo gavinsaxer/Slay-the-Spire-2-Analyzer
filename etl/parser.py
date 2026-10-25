@@ -19,7 +19,6 @@ def parse_sts2_run(raw_json: dict) -> RunData:
         "CHARACTER.DEFECT" : "Defect",
     }
 
-    # 1. Extract High-Level Metadata
     run_args = {
         "character_chosen": character[player_data["character"]],
         "ascension_level": raw_json.get("ascension", 0),
@@ -40,7 +39,12 @@ def parse_sts2_run(raw_json: dict) -> RunData:
         "ancient_choices":[]
     }
 
-    # 2. Iterate chronologically to determine the Floor
+    def process_name(name: str) -> str:
+        name_list = name.lower().split("_")
+        name = " ". join([word[0].upper() + word[1:] for word in name_list])
+        return name
+    
+
     act = 1
     floor = 1
     for floor_array in raw_json.get("map_point_history", []):
@@ -49,11 +53,10 @@ def parse_sts2_run(raw_json: dict) -> RunData:
         for point in floor_array:
             map_point_type = point.get("map_point_type")
 
-            # Player stats and room info for this specific floor
             stats = point.get("player_stats", [{}])[0]
             room = point.get("rooms", [{}])[0]
 
-            # --- EXTRACT COMBATS ---
+            #combats
             if map_point_type in ["monster", "elite", "boss"]:
                 run_args["monsters"].append(
                     MonsterEncounter(
@@ -65,7 +68,7 @@ def parse_sts2_run(raw_json: dict) -> RunData:
                     )
                 )
 
-            # --- EXTRACT CAMPFIRES ---
+            #campfires
             if map_point_type == "rest_site" and "rest_site_choices" in stats:
                 action = stats["rest_site_choices"][0]  # e.g. "HEAL" or "SMITH"
 
@@ -78,17 +81,13 @@ def parse_sts2_run(raw_json: dict) -> RunData:
                     CampfireChoice(floor=floor, picked=action, data=upgraded_card)
                 )
 
-            # --- EXTRACT CARD CHOICES --- maybe alter behavior for shops
+            #card choices - maybe alter behavior for shops
             if "card_choices" in stats:
                 picked = None
                 not_picked = []
 
-                def process_card_name(name: str) -> str:
-                    name = name[5:]
-                    return name
-
                 for choice in stats["card_choices"]:
-                    card = Card(name = process_card_name(choice["card"]["id"]), upgraded= False, enchantment=None)
+                    card = Card(name = process_name(choice["card"]["id"][5:]), upgraded= False, enchantment=None)
                     if choice["was_picked"]:
                         picked = card
                     else:
@@ -99,7 +98,7 @@ def parse_sts2_run(raw_json: dict) -> RunData:
                         CardChoice(floor=floor, picked=picked, not_picked=not_picked)
                     )
 
-            # Extract Potions Choices maybe alter behavior for shops
+            #potions - maybe alter behavior for shops
             if "potion_choices" in stats:
                 picked = []
                 not_picked = []
@@ -115,7 +114,7 @@ def parse_sts2_run(raw_json: dict) -> RunData:
                         PotionChoice(floor=floor, picked=picked, not_picked=not_picked)
             )
 
-            # Extract Potions Used and Discarded
+            # potions used and discarded
             if "potion_used" in stats:
                 run_args["potions_used"].extend(
                     [PotionUse(floor = floor, potion = Potion(name = item)) for item in stats["potion_used"]]
@@ -125,26 +124,24 @@ def parse_sts2_run(raw_json: dict) -> RunData:
                     [PotionDiscard(floor = floor, potion = Potion(name = item)) for item in stats["potion_discarded"]]
                 )
 
-            # Extract Relic Pickups
+            # relics
             if "relic_choices" in stats:
                 run_args["relics"].extend([RelicObtained(floor = floor, name = relic["choice"]) for relic in stats["relic_choices"] if relic["was_picked"]])
 
-            # Extract Ancient Choices
+            # ancients
             if map_point_type == "ancient":
                 picked = ""
                 not_picked = []
                 for choice in stats["ancient_choice"]:
                     if choice["was_chosen"]:
-                        picked = choice["TextKey"]
+                        picked = process_name(choice["TextKey"])
                     else:
                         not_picked.append(choice["TextKey"])
-                run_args["ancient_choices"].append(AncientChoice(floor=floor, picked=picked, not_picked=not_picked))
+                run_args["ancient_choices"].append(AncientChoice(act=act, picked=picked, not_picked=not_picked))
+
+            #add event parsing
 
             floor+=1
         act+=1
 
-        # You would continue mapping event_choices, potions, and shop purchases here
-        # using the 'stats' dictionary.
-
-    # 3. Pass the structured dictionary into Pydantic for validation
     return RunData(**run_args)
