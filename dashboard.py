@@ -137,7 +137,7 @@ if not filtered_df.empty:
         max_val = plot_data["value"].max()
         fig.update_yaxes(range=[0, max_val * 1.15])
 
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width='stretch')
 
 else:
     st.warning("No runs match the selected filters.")

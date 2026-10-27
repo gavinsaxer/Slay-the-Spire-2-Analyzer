@@ -40,25 +40,3 @@ def process_all_runs(runs_dir: str, output_filepath: str) -> pd.DataFrame:
         f"[bold green]Success![/] Processed {len(parsed_runs)} runs. Saved to {output_filepath}"
     )
     return df
-
-
-if __name__ == "__main__":
-    sts2_history_path = r"C:\Users\gavin\AppData\Roaming\SlayTheSpire2\steam\76561198284172076\profile1\saves\history"
-
-    df = process_all_runs(
-        runs_dir=sts2_history_path, output_filepath="data/sample_runs_dataset.json"
-    )
-
-    if not df.empty:
-        print("\n[bold cyan]Initial Data Analysis:[/]")
-
-        valid_runs = df[df["abandonded"] == False]
-
-        win_rates = valid_runs.groupby("character_chosen")["victory"].mean() * 100
-        print("\nWin Rate by Character (Legitimate Attempts):")
-        print(win_rates)
-
-        losses = valid_runs[valid_runs["victory"] == False]
-        avg_loss_floor = losses.groupby("character_chosen")["floor_reached"].mean()
-        print("\nAverage Floor Reached (True Losses):")
-        print(avg_loss_floor)
